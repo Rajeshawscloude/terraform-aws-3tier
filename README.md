@@ -39,3 +39,4 @@ Terraform, AWS VPC, EC2, RDS MySQL, ALB,
 Auto Scaling, IAM, S3
 
 ## Screenshots
+https://github.com/Rajeshawscloude/terraform-aws-3tier/tree/main/screenshots
